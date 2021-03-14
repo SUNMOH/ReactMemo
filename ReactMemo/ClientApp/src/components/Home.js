@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+ï»¿import React, { Component } from 'react';
 
 export class Home extends Component {
     static displayName = Home.name;
@@ -6,7 +6,7 @@ export class Home extends Component {
     render() {
         return (
             <div>
-                <h1>ÇÑ±Û±úÁü </h1>
+                <h1>í•œê¸€ê¹¨ì§    </h1>
             </div>
         );
     }
